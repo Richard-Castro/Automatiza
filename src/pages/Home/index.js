@@ -63,7 +63,6 @@ export default function Logon() {
                     
                 
             <div className="contentPresentation">
-            <h1>OQUE PODEMOS FAZER POR VOCÊ E SUA EMPRESA ?</h1>
 
             <h5>A Automatiza existe para oferecer soluções para você e sua empresa, tornando-a automatizada
                 e segura. </h5>
@@ -116,7 +115,7 @@ export default function Logon() {
             </div>
 
             <div class="contentServices"  id="servicos">
-            <h1>Nossos serviços</h1>
+            <h1>OQUE PODEMOS FAZER POR VOCÊ E SUA EMPRESA ?</h1>
                 <div className="container">
                
                     <div class="Services">
