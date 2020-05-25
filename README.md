@@ -1,5 +1,5 @@
 AUTOMATIZA 
 
 Site institucional Automatiza
+![automatiza](https://user-images.githubusercontent.com/25597344/82768743-4fdc0380-9e07-11ea-8af9-ad20cf1f96df.jpeg)
 
-![automatiza2](https://user-images.githubusercontent.com/25597344/82768570-35555a80-9e06-11ea-916b-f21bcbcd8f54.jpeg)
